@@ -3,3 +3,4 @@
 Primeira etapa
 
 - Adicionar conexão com board. 	&#10004;
+- Configurar link automático das issues;
